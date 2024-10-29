@@ -7,17 +7,17 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      image: "./react portfolio.png",
-      title: "This Portfolio!",
-      link: "https://github.com/VolkanKabay/React-Portfolio",
+      image: "./undangan.png",
+      title: "Undangan Web",
+      link: "https://undangannikah.rf.gd/",
       description:
-        "This is the portfolio you are currently looking at. It was built using React, TypeScript, and Material-UI. The animations were made using Framer Motion. I also used React-Router to handle the routing. The project is hosted on Netlify and the source code is available on GitHub.You can clearly see the improvements I made in my coding skills since the Spotify Clone.Since this is a portfolio, I wanted to keep it simple and clean, so I implemented a dark theme, animations and no unnecessary features. A visitor count is present, which is obtained from an firebase database.",
+        "This wedding invitation website was crafted with a focus on elegance and simplicity to ensure a delightful user experience. Built using HTML, CSS, and JavaScript, it features smooth animations powered by AOS (Animate On Scroll). To manage guest RSVPs, a Firebase backend stores and organizes responses efficiently. The site includes a custom-designed photo gallery, a countdown timer to the big day, and personalized sections for the couple’s story, event details, and venue map integration using Google Maps API. The entire project is optimized for mobile, providing easy navigation for all invited guests.",
     },
     {
       id: 2,
       image: "./spotify clone 2.png",
       title: "Spotify Clone",
-      link: "https://github.com/VolkanKabay/spotify-klon",
+      link: "#",
       description:
         "This was a project I did to learn more about different technologies like React, Redux, and the Material-UI component library. This Project features dynamic routing, state management, and showing data based on API calls. The layout is obviously based on the Spotify Web Player. This was one of my first projects so it has some flaws, for example it not being responsive.",
     },

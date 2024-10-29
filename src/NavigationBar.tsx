@@ -47,7 +47,7 @@ const NavigationBar = () => {
             <Tooltip title="GitHub">
               <GitHub
                 onClick={() =>
-                  window.open("https://github.com/Volkankabay", "_blank")
+                  window.open("https://github.com/SitiNurAisahJ", "_blank")
                 }
                 sx={{
                   color: "#ebdddd",
@@ -64,7 +64,7 @@ const NavigationBar = () => {
               <LinkedIn
                 onClick={() =>
                   window.open(
-                    "https://de.linkedin.com/in/volkan-kabay-9b3579233",
+                    "https://www.linkedin.com/in/siti-nur-aisah-b7a6a9229/",
                     "_blank"
                   )
                 }

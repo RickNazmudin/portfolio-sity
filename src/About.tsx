@@ -37,11 +37,14 @@ const About = () => {
             variant="body1"
             sx={{ color: "#ebdddd", maxWidth: "75ch", mb: 2 }}
           >
-            I am a 20-year-old German Software Engineer passionate about
-            developing web applications. I have experience with front-end
-            development using React, Redux, TypeScript, and Material-UI.
-            Currently improving my skills in frontend development and interested
-            in backend development as well.
+            I am Sity Nuraisyah, a recent graduate with a Bachelor's degree in
+            Computer Science, specializing in Information Systems. I am
+            passionate about designing and implementing efficient information
+            solutions. I have hands-on experience in systems analysis and
+            development, with a focus on creating seamless user experiences and
+            data-driven insights. Currently, I am honing my skills in both
+            front-end and back-end development and am eager to expand my
+            expertise in database management and software integration.
           </Typography>
         </Box>
 
@@ -56,10 +59,10 @@ const About = () => {
           <WorkExperience
             title="Apprenticeship as IT-Specialist"
             date="09.2023 - present"
-            label="Full-time"
+            label="Freelance"
           />
           <WorkExperience
-            title="Internship as IT-Specialist"
+            title="Web Developer"
             date="06.2023 - 07.2023"
             label="Internship"
           />
@@ -85,14 +88,10 @@ const About = () => {
           </Typography>
           <Education
             title="Self Teaching - Web Development"
-            date="2023 - present"
+            date="2019 - present"
             label="Self Teaching"
           />
-          <Education
-            title="Secondary school certificate"
-            date="2021"
-            label="School Certificate"
-          />
+          <Education title="Sarjana Komputer" date="2023" label="STIMIK AMIK" />
         </Box>
       </Box>
       <Footer />

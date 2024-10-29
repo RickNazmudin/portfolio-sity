@@ -49,7 +49,7 @@ const Footer = () => {
           marginTop: "1rem",
         }}
       >
-        Disclaimer, Privacy Policy, and Impressum
+        Disclaimer, Privacy Policy
       </a>
       <Typography
         variant="body2"
@@ -58,7 +58,7 @@ const Footer = () => {
           marginTop: "0.3rem",
         }}
       >
-        © 2024 Volkan Kabay. All rights reserved.
+        © 2024 Sity Aisyah. All rights reserved.
       </Typography>
     </Box>
   );

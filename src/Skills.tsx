@@ -62,7 +62,8 @@ const Skills = () => {
             rating: 3,
           },
           {
-            imageSrc: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg",
+            imageSrc:
+              "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg",
             alt: "Git",
             text: "Git",
             rating: 3,
@@ -114,9 +115,10 @@ const Skills = () => {
         >
           <b>Disclaimer: </b>
           <br />
-          Obviously I'm not an experienced developer yet, so I'm not a master in
-          any of these technologies. But I'm trying to improve myself and learn
-          new things about these technologies every day.
+          While I'm still building my experience as a developer, I’m continually
+          working to grow my skills. I may not be an expert in every technology
+          I work with, but I’m dedicated to learning and improving every day.
+          I'm excited to tackle new challenges and expand my knowledge as I go.
         </motion.div>
       </Box>
       <Footer />

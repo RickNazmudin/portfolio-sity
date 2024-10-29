@@ -8,7 +8,7 @@ const AnimatedWelcome = () => {
 
   const text1 = "Hi!".split("");
   const text2 = "My name is".split("");
-  const text3 = "Volkan";
+  const text3 = "Sity Aisyah";
   const text4 = "I am a Frontend Developer.".split("");
   const buttonVariants = {
     hidden: { opacity: 0, y: 0, scale: 0.8 },
@@ -150,7 +150,7 @@ const AnimatedWelcome = () => {
           initial={{ opacity: 0, x: 100 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 3, duration: 1.5 }}
-          src={"./memoji.png"}
+          src={"./ai.png"}
           alt="Memoji of"
           style={{
             zIndex: 1,
@@ -184,7 +184,7 @@ const AnimatedWelcome = () => {
 
           borderRadius: "2rem",
           cursor: "pointer",
-          background: "#f5f5f5",
+          background: "#FD297B",
         }}
         className="animation-button"
       >
