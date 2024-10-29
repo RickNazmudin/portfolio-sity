@@ -89,7 +89,7 @@ const NavigationBar = () => {
               Home
             </motion.a>
             <motion.a
-              href="/about"
+              href="/About"
               variants={linkVariants}
               whileHover="hover"
               className="nav-link"
@@ -98,7 +98,7 @@ const NavigationBar = () => {
               About
             </motion.a>
             <motion.a
-              href="/skills"
+              href="/Skills"
               variants={linkVariants}
               whileHover="hover"
               className="nav-link"
@@ -107,7 +107,7 @@ const NavigationBar = () => {
               Skills
             </motion.a>
             <motion.a
-              href="/projects"
+              href="/Projects"
               variants={linkVariants}
               whileHover="hover"
               className="nav-link"
