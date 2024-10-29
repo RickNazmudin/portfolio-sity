@@ -15,9 +15,9 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
       <ParticlesComponent id="particles" />
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/skills" element={<Skills />} />
-        <Route path="/projects" element={<Projects />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/Skills" element={<Skills />} />
+        <Route path="/Projects" element={<Projects />} />
         <Route path="/impressum" element={<Disclaimer />} />
       </Routes>
     </BrowserRouter>
